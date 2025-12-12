@@ -1,4 +1,3 @@
-# EDA
 🏥 Healthcare Patient Analysis – EDA Project
 
 📌 Project Summary
