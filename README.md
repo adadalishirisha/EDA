@@ -8,10 +8,15 @@ This project focuses on analyzing a comprehensive healthcare patient dataset con
 Through visualizations such as boxplots, heatmaps, scatter plots, pairplots, histograms, bar charts, and pivot-based heatmaps, the project uncovers insights like older individuals having higher blood sugar levels, smokers showing a higher likelihood of being under treatment, and certain cities showing higher prevalence of diseases. The study provides a thorough understanding of health trends and risk indicators that can support data-driven decision-making in hospitals and clinics.
 
 🚀 Project Objective
+
 1️⃣ Analyze how key medical indicators (Blood Sugar, Cholesterol, Heart Rate) vary across demographic groups such as Age, Gender, City, and Smoker Status.
+
 2️⃣ Identify which diseases are most commonly reported and analyze their distribution across different cities and patient groups.
+
 3️⃣ Examine trends in health risks such as high blood pressure, diabetes indicators, obesity, and their relationship with age and lifestyle factors.
+
 4️⃣ Perform categorical vs numerical analysis to understand how medical metrics differ based on Outcome (Recovered / Under Treatment).
+
 5️⃣ Conduct bivariate and multivariate analysis using boxplots, heatmaps, scatterplots, pairplots, correlation matrices, and pivot table heatmaps to uncover relationships across 10+ dataset features.
 
 📊 Tools & Technologies Used
